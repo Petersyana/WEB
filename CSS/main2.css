@@ -1,0 +1,42 @@
+.image {
+    display: block;
+    width: 250;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.image1 {
+    display: block;
+    width: 300;
+    margin-left: auto;
+    margin-right: auto
+}
+
+P { 
+    display: block;
+    width: 1100;
+    padding-left: 100px; 
+    text-align: center; 
+}
+
+a { 
+    display: block;
+    width: 1100;
+    padding-left: 115px; 
+    text-align: center; 
+}
+
+h1 { 
+    text-align: center;
+    color: rgb(4, 66, 2)
+}
+
+h3 { 
+    text-align: center;
+    color: rgb(66, 10, 155)
+}
+
+.block {
+    padding-inline-start: 600px;
+    
+}
